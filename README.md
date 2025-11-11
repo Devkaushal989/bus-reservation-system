@@ -192,17 +192,3 @@ Thank you for considering sponsoring my work!
 [![Gmail: nkr.nikhi.nkr@gmail.com](https://img.shields.io/badge/nkr.nikhil.nkr@gmail.com-EFF7F6?logo=Gmail&link=mailto:nkr.nikhil.nkr@gmail.com)][gmail]
 
 ## Activities
-
-![Alt](https://repobeats.axiom.co/api/embed/5d7dc395d3509bb6c43c35cc6d1ef043e1ae6e2f.svg "Repobeats analytics image")
-
-[github]: https://github.com/nixrajput
-[twitter]: https://twitter.com/nixrajput07
-[instagram]: https://instagram.com/nixrajput
-[linkedin]: https://linkedin.com/in/nixrajput
-[telegram]: https://telegram.me/nixrajput
-[gmail]: mailto:nkr.nikhil.nkr@gmail.com
-
-[repo]: https://github.com/nixrajput/bus-reservation-system-cpp
-[issues]: https://github.com/nixrajput/bus-reservation-system-cpp/issues
-[pulls]: https://github.com/nixrajput/bus-reservation-system-cpp/pulls
-[license]: https://github.com/nixrajput/bus-reservation-system-cpp/blob/master/LICENSE
